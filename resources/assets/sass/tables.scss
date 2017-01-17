@@ -1,0 +1,15 @@
+.md-table {
+    .md-table-cell {
+        &.table-actions {
+            .md-table-cell-container {
+                padding-top: 4px;
+                padding-bottom: 4px;
+
+                .md-button {
+                    margin: 0;
+                    width: auto;
+                }
+            }
+        }
+    }
+}

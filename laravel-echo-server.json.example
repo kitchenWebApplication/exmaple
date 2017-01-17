@@ -1,0 +1,19 @@
+{
+    "appKey": "d8oemifnneu40ej4r6nhifi69750udd4g85nl04721q05tmldb40116o3s1u",
+    "authHost": "localhost",
+    "authEndpoint": "/broadcasting/auth",
+    "database": "redis",
+    "databaseConfig": {
+        "redis": {},
+        "sqlite": {
+            "databasePath": "/database/laravel-echo-server.sqlite"
+        }
+    },
+    "devMode": false,
+    "host": "localhost",
+    "port": "6001",
+    "referrers": [],
+    "socketio": {},
+    "sslCertPath": "",
+    "sslKeyPath": ""
+}

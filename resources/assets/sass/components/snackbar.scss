@@ -1,0 +1,8 @@
+.md-snackbar {
+    &.md-primary .md-snackbar-container {
+        background-color: rgba(#2196f3, 0.75);
+    }
+    &.md-accent .md-snackbar-container {
+        background-color: rgba(#f44336, 0.75);
+    }
+}
